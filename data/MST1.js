@@ -905,7 +905,7 @@ var data= {
         ]    /*chapter8 compelete*/
       },
        {
-        "-ChapterName": "The Human Body The",
+        "-ChapterName": "The Human Body",
         "-Heading": "Multiple Choice Questions",
         "Cluster": [
           
@@ -1101,7 +1101,7 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\tFresh fruits and vegetables  \t\t\t\t\t  (a)\tgood eating habits"
+                "-Question": "1.\tFresh fruits and vegetables  \t\t\t\t  (a)\tgood eating habits"
               },
               {
                 "-Question": "2.\tWheat and barley              \t\t\t\t\t  (b)\tare junk food"
@@ -1113,7 +1113,7 @@ var data= {
                 "-Question": "4.\tPizza and chocolate           \t\t\t\t\t  (d)\thealthy drink"
               },
               {
-                "-Question": "5.\tWe must follow               \t\t\t\t\t\t  (e)\tmake us strong"
+                "-Question": "5.\tWe must follow               \t\t\t\t\t  (e)\tmake us strong"
               }
             ]
           },
@@ -1439,7 +1439,7 @@ var data= {
                 "-Question": "3.\tBathroom   \t\t\t\t\t\t  (c)\tto eat food"
               },
               {
-                "-Question": "4.\tBedroom       \t \t\t\t\t  (d)\tto take bath"
+                "-Question": "4.\tBedroom       \t \t\t\t\t\t  (d)\tto take bath"
               },
               {
                 "-Question": "5.\tStoreroom    \t\t\t\t\t\t  (e)\tto study"
